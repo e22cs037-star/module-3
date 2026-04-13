@@ -1,0 +1,16 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "amount": 5000,
+      "location": "Chennai",
+      "is_fraud": false
+    },
+    {
+      "id": 2,
+      "amount": 20000,
+      "location": "Mumbai",
+      "is_fraud": true
+    }
+  ]
+}
